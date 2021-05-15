@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BadarTeknog
 - 👀 I’m interested in Elektronika & Arduino
 - 🌱 I’m currently learning Ardino
-- 💞️ I’m looking to collaborate on ...
 - [YouTube](https://youtube.com/badarteknog)
 
 <!---
