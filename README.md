@@ -5,7 +5,7 @@
 ## Sosial media Badar Teknog
 
 - [YouTube](https://youtube.com/badarteknog)
-- [WhatsApp](https://chat.whatsapp.com/I6U3KmrqnQfKv9JLi29ZmO)
+- [Website](https://www.badarteknog.com)
 - [Instagram](https://instagram.com/badarteknog)
 - [Online Shop](https://shopee.co.id/badar_teknog)
 
